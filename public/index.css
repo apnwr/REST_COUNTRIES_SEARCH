@@ -1,0 +1,16 @@
+body{
+    background-color: olive;
+}
+
+#mainHead{
+    font-family: fantasy ;
+    font-weight: bolder;
+    color: beige;
+}
+input{
+    border: none;
+}
+.card:hover{
+    border: 2px solid yellow;
+    box-shadow: 10px 7px #948f52;
+}
